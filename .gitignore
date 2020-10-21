@@ -1,0 +1,4 @@
+.vscode
+home_automation/__pycache__
+myhome/__pycache__
+myhome/migrations/__pycache__
